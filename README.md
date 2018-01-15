@@ -1,4 +1,4 @@
-# getting-and-cleaning-data
+# Getting and Cleaning Data - Final Assignment
 What the script does:
 1. It loads the dplyr package, which is use to manipulate the data.
 1. It downloads the zipped file containing the data to the working directory.
